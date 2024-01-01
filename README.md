@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/mxrkur1336/mx">
+  <a href="https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md">
     <img src="https://play-lh.googleusercontent.com/gV2A6Pfuln_kt25BR7FaPtZlWPcrIIvhuWJ16cUmuLsGBe5ZltqW1CItJHTmpa7t3zYg" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,18 +10,29 @@
     Basit ve hızlı sms bombası.
     <br/>
     <br/>
-    <a href="https://github.com/mxrkur1336/mx"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/mxrkur1336/mx">View Demo</a>
+    <a href="https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md">View Demo</a>
     .
-    <a href="https://github.com/mxrkur1336/mx/issues">Report Bug</a>
+    <a href="https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md/issues">Report Bug</a>
     .
-    <a href="https://github.com/mxrkur1336/mx/issues">Request Feature</a>
+    <a href="https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/mxrkur1336/mx/total) 
+![Downloads](https://img.shields.io/github/downloads/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md/total) 
+
+## Table Of Contents
+
+* [About the Project](#about-the-project)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Roadmap](#roadmap)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
 
 ## About The Project
 
@@ -49,6 +60,10 @@ apt-get update
  Kali Linux Terminalini Açınız.
 
 ```sh
+pip3 install gerekli.txt
+```
+
+```sh
 git clone https://github.com/mxrkur1337/mxrkur-sms
 ```
 
@@ -62,12 +77,11 @@ python3 mxrkursms.py
 
 ## Usage
 
-Herhangi bir sorunda bana ulaşabilirsiniz 
-discord.gg/karantina veya t.me/mxrkurweb 
+sadece +90 numaralar için geçerlidir.
 
 ## Roadmap
 
-See the [open issues](https://github.com/mxrkur1336/mx/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/mxrkur1337/https://github.com/mxrkur1337/mxrkur-sms/README.md/issues) for a list of proposed features (and known issues).
 
 ### Creating A Pull Request
 
